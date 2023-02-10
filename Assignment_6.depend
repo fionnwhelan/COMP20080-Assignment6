@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1668013894 source:c:\comp20080\assignment_6\vehicle.cpp
+	<iostream>
+	"Vehicle.h"
+
+1669117787 c:\comp20080\assignment_6\vehicle.h
+
+1669648766 source:c:\comp20080\assignment_6\equipment.cpp
+	<iostream>
+	<bits/stdc++.h>
+	"Equipment.h"
+
+1669117787 c:\comp20080\assignment_6\equipment.h
+
+1669120875 source:c:\comp20080\assignment_6\main.cpp
+	<iostream>
+	<fstream>
+	"Vehicle.h"
+	"Equipment.h"
+	"Train.h"
+	"PassengerTrain.h"
+
+1669111580 c:\comp20080\assignment_6\train.h
+
+1669111863 c:\comp20080\assignment_6\passengertrain.h
+
+1669120132 source:c:\comp20080\assignment_6\train.cpp
+	<iostream>
+	"Vehicle.h"
+	"Equipment.h"
+	"Train.h"
+
+1669120190 source:c:\comp20080\assignment_6\passengertrain.cpp
+	<iostream>
+	"Vehicle.h"
+	"Equipment.h"
+	"Train.h"
+	"PassengerTrain.h"
+

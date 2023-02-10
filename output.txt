@@ -1,0 +1,48 @@
+Details of the objects immediately after being declared:
+
+
+The ID of this train is: 123456
+The number of railway cars on this train is: 10
+This train has not been registered.
+The value of this train is: 9999.50
+
+The ID of this train is: 1357
+The passenger capacity of the train is: 0
+This train has not been registered.
+The value of this train is: 15002.50
+
+The following details are from the friend function.
+The ID of this train is: 1357
+The passenger capacity of the train is: 0
+This train has not been registered.
+The value of this train is: 15002.50
+
+The ID of this train is: 8642
+The passenger capacity of the train is: 14227280
+This train has not been registered.
+The value of this train is: 12499.75
+
+The following details are from the friend function.
+The ID of this train is: 8642
+The passenger capacity of the train is: 14227280
+This train has not been registered.
+The value of this train is: 12499.75
+
+Details of the objects after being registered, railway cars reset, and depreciated:
+
+
+The ID of this train is: 123456
+The number of railway cars on this train is: 15
+This train has been registered.
+The value of this train is: 9249.54
+
+The ID of this train is: 1357
+The passenger capacity of the train is: 1200
+This train has been registered.
+The value of this train is: 13127.19
+
+The ID of this train is: 8642
+The passenger capacity of the train is: 660
+This train has been registered.
+The value of this train is: 10937.28
+
